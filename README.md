@@ -66,6 +66,7 @@ Users may be temporarily blocked if violations continue.
 Friendly responses appear for neutral or positive messages.
 Toxicity analysis is displayed below the chat box.
 
+7. To run this project, rename config.example.js to config.js and add your Hugging Face API token.
 
 ## API Configuration
 1. Replace the HF_TOKEN variable in script.js with your Hugging Face API key.
